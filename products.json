@@ -1,0 +1,162 @@
+[
+  {
+    "sku": "City-BeachCoconut-IP13PM",
+    "collection": "City",
+    "color": "BeachCoconut",
+    "size": "iPhone 13PM",
+    "main": "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BeachCoconut/IP13PM/City-BeachCoconut-IP13PM-main.jpg",
+    "others": [
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BeachCoconut/IP13PM/City-BeachCoconut-IP13PM-sub1.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BeachCoconut/IP13PM/City-BeachCoconut-IP13PM-sub2.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BeachCoconut/IP13PM/City-BeachCoconut-IP13PM-sub3.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BeachCoconut/IP13PM/City-BeachCoconut-IP13PM-sub5.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BeachCoconut/IP13PM/City-BeachCoconut-IP13PM-sub6.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BeachCoconut/IP13PM/City-BeachCoconut-IP13PM-sub7.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BeachCoconut/IP13PM/City-BeachCoconut-IP13PM-sub8.jpg"
+    ]
+  },
+  {
+    "sku": "City-BlueArt-IP12",
+    "collection": "City",
+    "color": "BlueArt",
+    "size": "iPhone 12",
+    "main": "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BuleArt/IP12/City-BuleArt-IP12-main.jpg",
+    "others": [
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BuleArt/IP12/City-BuleArt-IP12-sub1.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BuleArt/IP12/City-BuleArt-IP12-sub2.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BuleArt/IP12/City-BuleArt-IP12-sub3.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BuleArt/IP12/City-BuleArt-IP12-sub5.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BuleArt/IP12/City-BuleArt-IP12-sub6.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BlueSea1/IP12/City-BlueSea1-IP12-sub7.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BuleArt/IP12/City-BuleArt-IP12-sub8.jpg"
+    ]
+  },
+  {
+    "sku": "City-BlueSummer-IP12PM",
+    "collection": "City",
+    "color": "BlueSummer",
+    "size": "iPhone 12PM",
+    "main": "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BlueSummer/IP12PM/City-BlueSummer-IP12PM-main.jpg",
+    "others": [
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BlueSummer/IP12PM/City-BlueSummer-IP12PM-sub1.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BlueSummer/IP12PM/City-BlueSummer-IP12PM-sub2.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BlueSummer/IP12PM/City-BlueSummer-IP12PM-sub3.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BlueSummer/IP12PM/City-BlueSummer-IP12PM-sub5.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BlueSummer/IP12PM/City-BlueSummer-IP12PM-sub6.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BlueSummer/IP12PM/City-BlueSummer-IP12PM-sub7.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/BlueSummer/IP12PM/City-BlueSummer-IP12PM-sub8.jpg"
+    ]
+  },
+  {
+    "sku": "City-DarkBlueOcean-IP12",
+    "collection": "City",
+    "color": "DarkBlueOcean",
+    "size": "iPhone 12",
+    "main": "https://acpaturimage.s3.us-west-1.amazonaws.com/City/DarkBlueOcean/IP12/City-DarkBlueOcean-IP12-main.jpg",
+    "others": [
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/DarkBlueOcean/IP12/City-DarkBlueOcean-IP12-sub1.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/DarkBlueOcean/IP12/City-DarkBlueOcean-IP12-sub2.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/DarkBlueOcean/IP12/City-DarkBlueOcean-IP12-sub3.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/DarkBlueOcean/IP12/City-DarkBlueOcean-IP12-sub5.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/DarkBlueOcean/IP12/City-DarkBlueOcean-IP12-sub6.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/DarkBlueOcean/IP12/City-DarkBlueOcean-IP12-sub7.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/DarkBlueOcean/IP12/City-DarkBlueOcean-IP12-sub8.jpg"
+    ]
+  },
+  {
+    "sku": "City-EastCoast-IP12",
+    "collection": "City",
+    "color": "EastCoast",
+    "size": "iPhone 12",
+    "main": "https://acpaturimage.s3.us-west-1.amazonaws.com/City/EastCoast/IP12/City-EastCoast-IP12-main.jpg",
+    "others": [
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/EastCoast/IP12/City-EastCoast-IP12-sub1.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/EastCoast/IP12/City-EastCoast-IP12-sub2.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/EastCoast/IP12/City-EastCoast-IP12-sub3.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/EastCoast/IP12/City-EastCoast-IP12-sub5.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/EastCoast/IP12/City-EastCoast-IP12-sub6.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/EastCoast/IP12/City-EastCoast-IP12-sub7.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/EastCoast/IP12/City-EastCoast-IP12-sub8.jpg"
+    ]
+  },
+  {
+    "sku": "City-Ocean-IP7/8/SE",
+    "collection": "City",
+    "color": "Ocean",
+    "size": "iPhone 7/8/SE",
+    "main": "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Ocean/IP7_8_SE/City-Ocean-IP7_8_SE-main.jpg",
+    "others": [
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Ocean/IP7_8_SE/City-Ocean-IP7_8_SE-sub1.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Ocean/IP7_8_SE/City-Ocean-IP7_8_SE-sub2.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Ocean/IP7_8_SE/City-Ocean-IP7_8_SE-sub3.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Ocean/IP7_8_SE/City-Ocean-IP7_8_SE-sub5.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Ocean/IP7_8_SE/City-Ocean-IP7_8_SE-sub6.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Ocean/IP7_8_SE/City-Ocean-IP7_8_SE-sub7.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Ocean/IP7_8_SE/City-Ocean-IP7_8_SE-sub8.jpg"
+    ]
+  },
+  {
+    "sku": "City-Sunflower1-IP12P",
+    "collection": "City",
+    "color": "Sunflower1",
+    "size": "iPhone 12P",
+    "main": "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Sunflower1/IP12P/City-Sunflower1-IP12P-main.jpg",
+    "others": [
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Sunflower1/IP12P/City-Sunflower1-IP12P-sub1.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Sunflower1/IP12P/City-Sunflower1-IP12P-sub2.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Sunflower1/IP12P/City-Sunflower1-IP12P-sub3.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Sunflower1/IP12P/City-Sunflower1-IP12P-sub5.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Sunflower1/IP12P/City-Sunflower1-IP12P-sub6.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Sunflower1/IP12P/City-Sunflower1-IP12P-sub7.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Sunflower1/IP12P/City-Sunflower1-IP12P-sub8.jpg"
+    ]
+  },
+  {
+    "sku": "City-Sunflower2-IP12PM",
+    "collection": "City",
+    "color": "Sunflower2",
+    "size": "iPhone 12PM",
+    "main": "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Sunflower2/IP12PM/City-Sunflower2-IP12PM-main.jpg",
+    "others": [
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Sunflower2/IP12PM/City-Sunflower2-IP12PM-sub1.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Sunflower2/IP12PM/City-Sunflower2-IP12PM-sub2.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Sunflower2/IP12PM/City-Sunflower2-IP12PM-sub3.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Sunflower2/IP12PM/City-Sunflower2-IP12PM-sub5.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Sunflower2/IP12PM/City-Sunflower2-IP12PM-sub6.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Sunflower2/IP12PM/City-Sunflower2-IP12PM-sub7.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/City/Sunflower2/IP12PM/City-Sunflower2-IP12PM-sub8.jpg"
+    ]
+  },
+  {
+    "sku": "Cute-Castle2-IPAIR",
+    "collection": "Cute",
+    "color": "Castle2",
+    "size": "iPhone AIR",
+    "main": "https://acpaturimage.s3.us-west-1.amazonaws.com/Cute/Castle2/IPAIR/Cute-Castle2-IPAIR-main.jpg",
+    "others": [
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/Cute/Castle2/IPAIR/Cute-Castle2-IPAIR-sub1.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/Cute/Castle2/IPAIR/Cute-Castle2-IPAIR-sub2.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/Cute/Castle2/IPAIR/Cute-Castle2-IPAIR-sub3.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/Cute/Castle2/IPAIR/Cute-Castle2-IPAIR-sub4.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/Cute/Castle2/IPAIR/Cute-Castle2-IPAIR-sub5.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/Cute/Castle2/IPAIR/Cute-Castle2-IPAIR-sub6.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/Cute/Castle2/IPAIR/Cute-Castle2-IPAIR-sub7.jpg"
+    ]
+  },
+  {
+    "sku": "Flower-Bouquet-IP17P",
+    "collection": "Flower",
+    "color": "Bouquet",
+    "size": "iPhone 17P",
+    "main": "https://acpaturimage.s3.us-west-1.amazonaws.com/Flower/Bouquet/IP17P/Flower-Bouquet-IP17P-main.jpg",
+    "others": [
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/Flower/Bouquet/IP17P/Flower-Bouquet-IP17P-sub1.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/Flower/Bouquet/IP17P/Flower-Bouquet-IP17P-sub2.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/Flower/Bouquet/IP17P/Flower-Bouquet-IP17P-sub3.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/Flower/Bouquet/IP17P/Flower-Bouquet-IP17P-sub4.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/Flower/Bouquet/IP17P/Flower-Bouquet-IP17P-sub5.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/Flower/Bouquet/IP17P/Flower-Bouquet-IP17P-sub6.jpg",
+      "https://acpaturimage.s3.us-west-1.amazonaws.com/Flower/Bouquet/IP17P/Flower-Bouquet-IP17P-sub7.jpg"
+    ]
+  }
+]
